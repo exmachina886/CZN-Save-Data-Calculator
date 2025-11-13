@@ -594,7 +594,7 @@
           const ephipanyButton = clonedCard.querySelector('#ephipany');
           const divineEphipanyButton = clonedCard.querySelector('#divine-ephipany');
 
-          if (i >= 3) {
+          if (i > 3) {
             clonedCard.setAttribute('data-card', 'unique');
             duplicateButton.classList.remove('hidden')
             ephipanyButton.classList.remove('hidden')
