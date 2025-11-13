@@ -391,7 +391,7 @@
       function epiphanyCard(button, skipToggle=false) {
         const card = button.closest('.ability-card');
 
-        if (!card.getAttribute('data-card').split(' ').includes('basic')) {
+        if (!card.getAttribute('data-card').split(' ').includes('basic') || card.getAttribute('data-card').split(' ').includes('convert')) {
           if (!skipToggle) {
             toggleEphipany(card, button)
           }
@@ -417,7 +417,7 @@
       function divineEpiphanyCard(button, skipToggle=false) {
         const card = button.closest('.ability-card');
 
-        if (!card.getAttribute('data-card').split(' ').includes('basic')) {
+        if (!card.getAttribute('data-card').split(' ').includes('basic') || card.getAttribute('data-card').split(' ').includes('convert')) {
           if (!skipToggle) {
             toggleEphipany(card, button)
           }
@@ -441,8 +441,36 @@
         data = card.getAttribute('data-card').split(' ')
 
         if (!data.includes('convert')) {
+          const duplicateButton = card.querySelector('#duplicate').classList.remove('hidden');
+          const ephipanyButton = card.querySelector('#ephipany').classList.remove('hidden')
+          const divineEphipanyButton = card.querySelector('#divine-ephipany').classList.remove('hidden')
+
           card.setAttribute('data-card', `${data.join(' ')} convert`)
         } else {
+          if (data.includes('basic')) {
+            const duplicateButton = card.querySelector('#duplicate');
+            const ephipanyButton = card.querySelector('#ephipany');
+            const divineEphipanyButton = card.querySelector('#divine-ephipany');
+
+            duplicateButton.classList.add('hidden')
+            ephipanyButton.classList.add('hidden')
+            divineEphipanyButton.classList.add('hidden')
+
+            if (data.includes('duplicate')) {
+              toggleButton(duplicateButton)
+            }
+
+            if (data.includes('ephipany')) {
+              toggleButton(ephipanyButton)
+            }
+
+            if (data.includes('divine-ephipany')) {
+              toggleButton(divineEphipanyButton)
+            }
+
+            data = data.filter(item => !['duplicate', 'ephipany', 'divine-ephipany'].includes(item))
+          }
+
           card.setAttribute('data-card', data.filter(item => item !== 'convert').join(' '))
         }
         
