@@ -1,0 +1,442 @@
+{
+  "Abyssal Bug": {
+    "name": "Abyssal Bug",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316823/b7a6ffa3d34f7bde6153039a451b57c8.png/show"
+  },
+  "Abyssalization": {
+    "name": "Abyssalization",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4317415/28c949d928e37699d962ad35eed1f6b4.png/show"
+  },
+  "Acid Gas": {
+    "name": "Acid Gas",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316691/ffe68d4c07a18e3890de22c98e2440ea.png/show"
+  },
+  "Aggressive Mutant": {
+    "name": "Aggressive Mutant",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331664/3478a071efb10b9f765a73cb0e9f9099.png/show"
+  },
+  "Aimed Fire": {
+    "name": "Aimed Fire",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316201/eb9bcc47b1aa825d8c62ab84278c99e2.png/show"
+  },
+  "Ambush": {
+    "name": "Ambush",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316192/c71aa6be1484d1cbb31b98eb2dc0acbb.png/show"
+  },
+  "Arcane Rush": {
+    "name": "Arcane Rush",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316723/af4fde04a9252a777f9112f1631c137c.png/show"
+  },
+  "Atomic Decomposition": {
+    "name": "Atomic Decomposition",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316197/dd298e616b2126cad5ea52bab5a5d044.png/show"
+  },
+  "Attack!": {
+    "name": "Attack!",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316673/13ab3f1bbbcc9b3c6d49cfb9770a8b99.png/show"
+  },
+  "Automata Cavalry": {
+    "name": "Automata Cavalry",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316778/ec2106ae07596970d881b4380d6652a9.png/show"
+  },
+  "Beam Shooter": {
+    "name": "Beam Shooter",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316806/28fdeb187ddfcd778a2e06b32a910770.png/show"
+  },
+  "Belligerence": {
+    "name": "Belligerence",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316768/2c57df97572f56884ac3513ea84b1fcd.png/show"
+  },
+  "Camouflage": {
+    "name": "Camouflage",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316185/ed6ca60a42310d979c29f8598315e447.png/show"
+  },
+  "Chilling Godfather": {
+    "name": "Chilling Godfather",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4331656/807482b11be1efb7d36070bb76c5a240.png/show"
+  },
+  "Confiscation": {
+    "name": "Confiscation",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331665/f230f27cba55a44a6165024a1555df65.png/show"
+  },
+  "Consecutive Attack": {
+    "name": "Consecutive Attack",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316210/e817a95678a8b095df440c4c0cbc099e.png/show"
+  },
+  "Counterattack Preparation": {
+    "name": "Counterattack Preparation",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316180/29dfd76446939f1113a1094a424f3a26.png/show"
+  },
+  "Dark Grip": {
+    "name": "Dark Grip",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316200/42fd1479ce0c427dbdd635596def2457.png/show"
+  },
+  "Deadly Shot": {
+    "name": "Deadly Shot",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316761/2c07bc4c6a166f6096be804e113f618d.png/show"
+  },
+  "Destruction": {
+    "name": "Destruction",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316583/75ff7377b0f7b75be248c73fd594ff6a.png/show"
+  },
+  "Determination": {
+    "name": "Determination",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316195/06c3b88dd3c19a29a334123c5e9ca949.png/show"
+  },
+  "Devotion": {
+    "name": "Devotion",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316193/253f6c4869b4b746eba4132bb2920633.png/show"
+  },
+  "Dominion": {
+    "name": "Dominion",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4317416/9591f890c3ec6cf532c033bbee5f8f13.png/show"
+  },
+  "Elemental Phoenix": {
+    "name": "Elemental Phoenix",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316832/4067c0d6129958dd0a14a7d737199787.png/show"
+  },
+  "Energy Barrier": {
+    "name": "Energy Barrier",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316205/613a8fad6f4bd014682a87b470c07f2d.png/show"
+  },
+  "Evil Spirit Dullahan": {
+    "name": "Evil Spirit Dullahan",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4317323/5b3bf805ac7d7f822948fee262078c14.png/show"
+  },
+  "First Aid Kit": {
+    "name": "First Aid Kit",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316703/ec80193dd8525ab9310ffd2b99e48fec.png/show"
+  },
+  "Forbidden Algorithm": {
+    "name": "Forbidden Algorithm",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331660/de83b81a5c04446f96754621aa5d44ad.png/show"
+  },
+  "Forbidden: Disposable Ego": {
+    "name": "Forbidden: Disposable Ego",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331707/3846a7d9b90d3141d36866556396b860.png/show"
+  },
+  "Forbidden: Ecstasy of Violence": {
+    "name": "Forbidden: Ecstasy of Violence",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331705/90cb93d6f00009d4f976ae00461665db.png/show"
+  },
+  "Forbidden: Engraved Malice": {
+    "name": "Forbidden: Engraved Malice",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331704/795c322882106dcf7c6c4f5d9430fb5f.png/show"
+  },
+  "Forbidden: Eternal Hunger": {
+    "name": "Forbidden: Eternal Hunger",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331703/f6630a7abe2ade53fa655d385527b745.png/show"
+  },
+  "Forbidden: Gesture of Freedom": {
+    "name": "Forbidden: Gesture of Freedom",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331708/b2873a1f349615bf6f63733ad8da321d.png/show"
+  },
+  "Forbidden: Guidance of Futility": {
+    "name": "Forbidden: Guidance of Futility",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331706/92cc27e1e99bafd919682f485ef2b5c7.png/show"
+  },
+  "Forbidden: Portrait of Fury": {
+    "name": "Forbidden: Portrait of Fury",
+    "subtype": "Forbidden Card",
+    "img": "https://img.game8.co/4331709/4532e1c4908f596d30abeea14110dcec.png/show"
+  },
+  "Forced Learning Apparatus": {
+    "name": "Forced Learning Apparatus",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331659/92fddf48a9dfbc9571d340439e37ab68.png/show"
+  },
+  "Fortitude": {
+    "name": "Fortitude",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316690/170ef8e8cb9e41f61fdcf3c0057d3842.png/show"
+  },
+  "Gear Bag": {
+    "name": "Gear Bag",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316202/102df9fdc09c900959b817b53f060c15.png/show"
+  },
+  "Gloomy Godmother": {
+    "name": "Gloomy Godmother",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4317317/3945fbbf07c8a8ef658264ea8d315ffd.png/show"
+  },
+  "Glorious Resistance": {
+    "name": "Glorious Resistance",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316737/676cd7a6987d7373de53686acfaf327b.png/show"
+  },
+  "Hand-to-Hand Combat": {
+    "name": "Hand-to-Hand Combat",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316207/7dc6c867fb77746d40005de52f8c3c8e.png/show"
+  },
+  "Heavy Bash": {
+    "name": "Heavy Bash",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316206/29eb22effb5c21d5a695492f3b035a48.png/show"
+  },
+  "Hidden Bullet": {
+    "name": "Hidden Bullet",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316204/d383c12691d7a87575553c13b89d8ca2.png/show"
+  },
+  "Hunger of Loss": {
+    "name": "Hunger of Loss",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4331663/a772b27bc81d42f0003d42ccb6ceef9e.png/show"
+  },
+  "Hunger of the Void": {
+    "name": "Hunger of the Void",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316812/5dcea899d41e6a7932a95cd5ad3ffa89.png/show"
+  },
+  "Infection": {
+    "name": "Infection",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4318129/97f6272cb071344147597cb5f89025b1.png/show"
+  },
+  "Instinct Ignition": {
+    "name": "Instinct Ignition",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316729/9cb4065c79bcdb33a8c94fcfc06c8ba3.png/show"
+  },
+  "Iron Wall": {
+    "name": "Iron Wall",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316178/7b94aab6322ee588e16da5a962725d73.png/show"
+  },
+  "Knowledge of Darkness": {
+    "name": "Knowledge of Darkness",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316188/bbdb21671bfbdc6279f6a40aec1ffe70.png/show"
+  },
+  "Leap Attack": {
+    "name": "Leap Attack",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316569/2da870f1fd78882be58fcef302b88257.png/show"
+  },
+  "Maneuvering Fire": {
+    "name": "Maneuvering Fire",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316186/9a412d7b67ac9115383d46d996602ca6.png/show"
+  },
+  "Muscle-Enhanced Evolver": {
+    "name": "Muscle-Enhanced Evolver",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331661/2b107308fadc2a27b8f6d4d9edf2f7fc.png/show"
+  },
+  "Negotiate": {
+    "name": "Negotiate",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316196/530e9b23fb9189cca4aa96c4d94b507d.png/show"
+  },
+  "Overwhelm": {
+    "name": "Overwhelm",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316198/da5b2d9099a9a950f85100d14b4c32ad.png/show"
+  },
+  "Precision Aim": {
+    "name": "Precision Aim",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316764/9c325e04a674b50e67cd7afd2f4fc6e5.png/show"
+  },
+  "Prepare for Battle": {
+    "name": "Prepare for Battle",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316770/1221b1dc38bf9f820011e180f2fdbbe6.png/show"
+  },
+  "Propagative Virus": {
+    "name": "Propagative Virus",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331662/148d970cf6afd55186c7902ec799e9de.png/show"
+  },
+  "Protective Shout": {
+    "name": "Protective Shout",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316209/2649b0eb67c1573915006b4409dc1464.png/show"
+  },
+  "Pulverize": {
+    "name": "Pulverize",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316181/10cf1a7252999e78f92b8f804d8744de.png/show"
+  },
+  "Quick Shelling": {
+    "name": "Quick Shelling",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316176/1130f51c904187eeb62fd12b4108000b.png/show"
+  },
+  "Quickdraw": {
+    "name": "Quickdraw",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316191/4c7e6559e012c38ee8670a7973992bc6.png/show"
+  },
+  "Rage": {
+    "name": "Rage",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316589/291a3a54f8fd5375b8ef4007e3096dcf.png/show"
+  },
+  "Rally (Common)": {
+    "name": "Rally (Common)",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316203/238e2ed9e5412b764fb8180b784681f2.png/show"
+  },
+  "Recycling": {
+    "name": "Recycling",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316189/e25974410316e3413399d7ac53ebbfa6.png/show"
+  },
+  "Relentless Endurance": {
+    "name": "Relentless Endurance",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316177/0c43423e8199efae348c918719f916a4.png/show"
+  },
+  "Reorganize": {
+    "name": "Reorganize",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316771/6daa492d8731f8c2566de0a5bca5abe1.png/show"
+  },
+  "Repent": {
+    "name": "Repent",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316603/8e545d2a0f151326a0716ecf18c3bd0d.png/show"
+  },
+  "Rotten Ripper": {
+    "name": "Rotten Ripper",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316790/477b0c356e0d2047598d9255476bfec8.png/show"
+  },
+  "Sacred Strike": {
+    "name": "Sacred Strike",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316217/bbf0f13af97af5ba440050be5c71a14b.png/show"
+  },
+  "Sadism": {
+    "name": "Sadism",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316693/7fafd6a29e69b61f56a45c422ac20d7b.png/show"
+  },
+  "Self-Generating Experiment": {
+    "name": "Self-Generating Experiment",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331657/1d5bfeeb4bb2681cdac328ced5ee744d.png/show"
+  },
+  "Seven Arms": {
+    "name": "Seven Arms",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316785/65dc2253c3af02b66f3a16a4e4fa954c.png/show"
+  },
+  "Shell-Forming Cell": {
+    "name": "Shell-Forming Cell",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4331658/367a74223d7a268ed4d7539325983933.png/show"
+  },
+  "Shock": {
+    "name": "Shock",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316187/7f66c646f01b3fc33a9a9a9d3d1416de.png/show"
+  },
+  "Shy Gardener": {
+    "name": "Shy Gardener",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316179/9efdb86a1e6c6dbb44e91d87ae66fa77.png/show"
+  },
+  "Skull Bash": {
+    "name": "Skull Bash",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316574/15b60224b179270d67bc6d5ecebec621.png/show"
+  },
+  "Somnolent Fruit": {
+    "name": "Somnolent Fruit",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316194/0fdaabcd5faaa81a3d71089e77cfed3e.png/show"
+  },
+  "Sorrowful Godfather": {
+    "name": "Sorrowful Godfather",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316772/ac60cb67a7a3e2955917aab2dcd25195.png/show"
+  },
+  "Spiked Shield": {
+    "name": "Spiked Shield",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316208/e3c82a1d2d1b9b06aafd97308270e9bf.png/show"
+  },
+  "Spirit Kefox": {
+    "name": "Spirit Kefox",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316834/127adc3a23e268ed7157e4ae0a56c473.png/show"
+  },
+  "Strategic Starting Point": {
+    "name": "Strategic Starting Point",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316190/ffcfc1f267a247debbeb8ecd89216bb2.png/show"
+  },
+  "Tackle": {
+    "name": "Tackle",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316199/bb9ae17f692096a3a78d684cb696aa4e.png/show"
+  },
+  "Tactical Action": {
+    "name": "Tactical Action",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316184/eed8698d08eb1c44f476dfdd63e57c42.png/show"
+  },
+  "Tactical Reformation": {
+    "name": "Tactical Reformation",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316676/5fd7beb7f29f56528f0735551ab7b472.png/show"
+  },
+  "Wanderer of the Void": {
+    "name": "Wanderer of the Void",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316183/632aa0c92fc9f05f5bca6a23a9230da5.png/show"
+  },
+  "Wind of Relief": {
+    "name": "Wind of Relief",
+    "subtype": "Neutral Card",
+    "img": "https://img.game8.co/4316182/9bcbdcf20946a9b9787655b4cac6db39.png/show"
+  },
+  "Winged Humanoid Beast": {
+    "name": "Winged Humanoid Beast",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316780/4d179b7f52ad9e018e91d2e5d77c3e6e.png/show"
+  },
+  "Wolves Bane": {
+    "name": "Wolves Bane",
+    "subtype": "Monster Card",
+    "img": "https://img.game8.co/4316784/25128d6f2dab05600206eb076d9f60fb.png/show"
+  }
+}

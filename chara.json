@@ -1,0 +1,884 @@
+{
+  "amir": {
+    "name": "amir",
+    "img": "https://www.prydwen.gg/static/0b745fa8a9476625b0a51f9e276bc97e/2547a/amir_card.webp",
+    "cards": [
+      {
+        "title": "Rapier",
+        "img_url": "https://www.prydwen.gg/static/4e29ad01ae131e2932d3264f11d3a955/f9911/amir_2.webp"
+      },
+      {
+        "title": "Rapier",
+        "img_url": "https://www.prydwen.gg/static/4e29ad01ae131e2932d3264f11d3a955/f9911/amir_2.webp"
+      },
+      {
+        "title": "Steel Barrier",
+        "img_url": "https://www.prydwen.gg/static/26cfce72bed0fe89eaafa70a6abace66/f9911/amir_3.webp"
+      },
+      {
+        "title": "Hovering Metal",
+        "img_url": "https://www.prydwen.gg/static/c3e96ee041fd522fc42326743ef7315c/f9911/amir_4.webp"
+      },
+      {
+        "title": "Metal Pierce",
+        "img_url": "https://www.prydwen.gg/static/aa80281ffd7250c2b6ac9b701bbe2213/f9911/amir_5.webp"
+      },
+      {
+        "title": "Metal Extraction",
+        "img_url": "https://www.prydwen.gg/static/97a679f5319124a4e6ffd20ec4c969a9/f9911/amir_6.webp"
+      },
+      {
+        "title": "Full Metal Hurricane",
+        "img_url": "https://www.prydwen.gg/static/c32db90f09eb28440ea0a621c38599d4/f9911/amir_7.webp"
+      },
+      {
+        "title": "Iron Skin",
+        "img_url": "https://www.prydwen.gg/static/5d48394c311f3e2057eeef62a0599f0c/f9911/amir_8.webp"
+      }
+    ]
+  },
+  "beryl": {
+    "name": "beryl",
+    "img": "https://www.prydwen.gg/static/111ba568859809cd244413b9bcbf2fec/2547a/beryl_card.webp",
+    "cards": [
+      {
+        "title": "Launcher",
+        "img_url": "https://www.prydwen.gg/static/eab2a83b4490529eb5d3ccf9682bbc4d/f9911/beryl_2.webp"
+      },
+      {
+        "title": "Charge Launcher",
+        "img_url": "https://www.prydwen.gg/static/8c71344cb3c6a46320cf08ef83e8fa49/f9911/beryl_3.webp"
+      },
+      {
+        "title": "Barrier",
+        "img_url": "https://www.prydwen.gg/static/8ed518509005f5dda8be4d51231ea9ff/f9911/beryl_4.webp"
+      },
+      {
+        "title": "Opening Found",
+        "img_url": "https://www.prydwen.gg/static/63872ba0decfbbfa0de19e6de131652c/f9911/beryl_5.webp"
+      },
+      {
+        "title": "Charged Shot",
+        "img_url": "https://www.prydwen.gg/static/57bf8310469c0935e7d3d75cb4402822/f9911/beryl_6.webp"
+      },
+      {
+        "title": "Guilty Pleasure",
+        "img_url": "https://www.prydwen.gg/static/209cecfe9525ddce20773c75f437df5e/f9911/beryl_7.webp"
+      },
+      {
+        "title": "Unlimited Firepower",
+        "img_url": "https://www.prydwen.gg/static/982c5c6ea107b007a80592039c2b45a5/f9911/beryl_8.webp"
+      },
+      {
+        "title": "Heavy Weapons Specialist",
+        "img_url": "https://www.prydwen.gg/static/ed4fbf3bf2c073cc093e06160a8b335a/f9911/beryl_9.webp"
+      }
+    ]
+  },
+  "cassius": {
+    "name": "cassius",
+    "img": "https://www.prydwen.gg/static/5cd2cdcf1a2ed8bb772fe77030209ebb/2547a/cassius_card.webp",
+    "cards": [
+      {
+        "title": "Card",
+        "img_url": "https://www.prydwen.gg/static/c2153c85902b092d418c19f6421a8da2/f9911/cassius_2.webp"
+      },
+      {
+        "title": "Wild Card",
+        "img_url": "https://www.prydwen.gg/static/bbebcb78d778da7ba630de765a60e019/f9911/cassius_13.webp"
+      },
+      {
+        "title": "Mana Field",
+        "img_url": "https://www.prydwen.gg/static/01fb6f1899864191e79d7eb1614c0b7c/f9911/cassius_3.webp"
+      },
+      {
+        "title": "Pop Eyed Popper",
+        "img_url": "https://www.prydwen.gg/static/6c77d2b327311309dbec6ddf5523a4cd/f9911/cassius_4.webp"
+      },
+      {
+        "title": "Devil Dice",
+        "img_url": "https://www.prydwen.gg/static/ec54bd3b66de7eac4fae4c6cdcf7a65b/f9911/cassius_5.webp"
+      },
+      {
+        "title": "Shuffle",
+        "img_url": "https://www.prydwen.gg/static/caf2650b4387a90af4ca77d9f4363c54/f9911/cassius_6.webp"
+      },
+      {
+        "title": "Dice Trick",
+        "img_url": "https://www.prydwen.gg/static/870a6fbb2c677194c6f1f9ea56f586c8/f9911/cassius_7.webp"
+      },
+      {
+        "title": "Joker",
+        "img_url": "https://www.prydwen.gg/static/27aa2d259a4a7b60f5aa757c1c945933/f9911/cassius_8.webp"
+      }
+    ]
+  },
+  "chizuru": {
+    "name": "chizuru",
+    "img": "https://www.prydwen.gg/static/a69c85f9255dedce185b23645e8bdf01/2547a/chi_card.webp"
+  },
+  "haru": {
+    "name": "haru",
+    "img": "https://www.prydwen.gg/static/5ce2378ea36903d2e731bf738fb3dbd7/2547a/haru_card.webp",
+    "cards": [
+      {
+        "title": "Anchor",
+        "img_url": "https://www.prydwen.gg/static/3d2bb548d55811b26d46edf0a721bf1d/f9911/haru_2.webp"
+      },
+      {
+        "title": "Power Anchor",
+        "img_url": "https://www.prydwen.gg/static/1f0c096949c30ad33b5a4143a27a83e8/f9911/haru_3.webp"
+      },
+      {
+        "title": "Anchor Drop",
+        "img_url": "https://www.prydwen.gg/static/00439f9398022fc06fba2ec06b6ca546/f9911/haru_4.webp"
+      },
+      {
+        "title": "Anchor Shot",
+        "img_url": "https://www.prydwen.gg/static/3704202cb5f37da329fe43881847f4d3/f9911/haru_5.webp"
+      },
+      {
+        "title": "Anchor Pointer",
+        "img_url": "https://www.prydwen.gg/static/67a6cdb5584f2c56d0446405c63aefd1/f9911/haru_6.webp"
+      },
+      {
+        "title": "Power Charge",
+        "img_url": "https://www.prydwen.gg/static/d43f3d7a580c6f4435f5812671636efe/f9911/haru_7.webp"
+      },
+      {
+        "title": "Charge Energy",
+        "img_url": "https://www.prydwen.gg/static/b948aee26b79669b7d4c26f1f9752703/f9911/haru_8.webp"
+      },
+      {
+        "title": "Lift Anchor",
+        "img_url": "https://www.prydwen.gg/static/c01ed96fad0a9dc4c910dfa611ac3389/f9911/haru_9.webp"
+      }
+    ]
+  },
+  "hugo": {
+    "name": "hugo",
+    "img": "https://www.prydwen.gg/static/07b2532be8dbdf9a736b8332c884e71d/2547a/hugo_card.webp",
+    "cards": [
+      {
+        "title": "Throw Dagger",
+        "img_url": "https://www.prydwen.gg/static/64e88b25786fac42fd6f3ce87a3d37cc/f9911/hugo_2.webp"
+      },
+      {
+        "title": "Throw Dagger",
+        "img_url": "https://www.prydwen.gg/static/64e88b25786fac42fd6f3ce87a3d37cc/f9911/hugo_2.webp"
+      },
+      {
+        "title": "Defense System",
+        "img_url": "https://www.prydwen.gg/static/5e2605c7628a08ddf3a563fdc8448321/f9911/hugo_3.webp"
+      },
+      {
+        "title": "Hunting Instincts",
+        "img_url": "https://www.prydwen.gg/static/eba2e63cc87b3f964c5d1fbd8eeed9ee/f9911/hugo_4.webp"
+      },
+      {
+        "title": "Fan of Daggers",
+        "img_url": "https://www.prydwen.gg/static/24be16e91e945e05b3d8a68d360d7ce7/f9911/hugo_5.webp"
+      },
+      {
+        "title": "Quick Fix",
+        "img_url": "https://www.prydwen.gg/static/4af086a29870e20348a305de076e3b7d/f9911/hugo_6.webp"
+      },
+      {
+        "title": "Dingo Howling",
+        "img_url": "https://www.prydwen.gg/static/8f9b1d36e2e8eaa035111ca65095256e/f9911/hugo_7.webp"
+      },
+      {
+        "title": "Fixer's Approach",
+        "img_url": "https://www.prydwen.gg/static/57fc0683e54d1f6563382e7bf9298aec/f9911/hugo_8.webp"
+      }
+    ]
+  },
+  "kayron": {
+    "name": "kayron",
+    "img": "https://www.prydwen.gg/static/98d6dca948f82dab9abfd86ff892d11b/2547a/kayron_card.webp",
+    "cards": [
+      {
+        "title": "Elimination",
+        "img_url": "https://www.prydwen.gg/static/62c7b12194b6440ac9c272a68c000657/f9911/kayron_2.webp"
+      },
+      {
+        "title": "Elimination",
+        "img_url": "https://www.prydwen.gg/static/62c7b12194b6440ac9c272a68c000657/f9911/kayron_2.webp"
+      },
+      {
+        "title": "Sphere",
+        "img_url": "https://www.prydwen.gg/static/486d99d42cf7d1f6660b18623f943fc2/f9911/kayron_3.webp"
+      },
+      {
+        "title": "Echo of Futility",
+        "img_url": "https://www.prydwen.gg/static/2797ecaddf50537bdd3e2c903bbf901c/f9911/kayron_4.webp"
+      },
+      {
+        "title": "Brand of Annihilation",
+        "img_url": "https://www.prydwen.gg/static/a19cd1e577c583b636e054309e76355e/f9911/kayron_5.webp"
+      },
+      {
+        "title": "Black Hole",
+        "img_url": "https://www.prydwen.gg/static/da5cdec078944412ee0d8cd5dcf431ac/f9911/kayron_6.webp"
+      },
+      {
+        "title": "Oath of Vanity",
+        "img_url": "https://www.prydwen.gg/static/1a87c61c176ce4fa34e8f1167254c53d/f9911/kayron_7.webp"
+      },
+      {
+        "title": "Echoes of True Abyss",
+        "img_url": "https://www.prydwen.gg/static/3821c025110a4b1694ce0f0efe72eb9d/f9911/kayron_8.webp"
+      }
+    ]
+  },
+  "khalipe": {
+    "name": "khalipe",
+    "img": "https://www.prydwen.gg/static/720b046888956ef2dcd37cb5d58f0ade/2547a/khalip_card.webp",
+    "cards": [
+      {
+        "title": "Lashing",
+        "img_url": "https://www.prydwen.gg/static/8dc49c61c77afdd4291bda2e864c4870/f9911/khalipe_2.webp"
+      },
+      {
+        "title": "Upward Slash",
+        "img_url": "https://www.prydwen.gg/static/db1a99847e28bc62c10287b26a4a1bef/f9911/khalipe_3.webp"
+      },
+      {
+        "title": "Tyr's Vow",
+        "img_url": "https://www.prydwen.gg/static/bf921c355afb54179f75e764c90df64b/f9911/khalipe_4.webp"
+      },
+      {
+        "title": "Vulture Ejection",
+        "img_url": "https://www.prydwen.gg/static/4bc716d4195ad8c364381a831756769f/f9911/khalipe_5.webp"
+      },
+      {
+        "title": "Greatsword Aquila",
+        "img_url": "https://www.prydwen.gg/static/b3f7cf49e2de7dda4e1a5059f70b94af/f9911/khalipe_6.webp"
+      },
+      {
+        "title": "Overpower",
+        "img_url": "https://www.prydwen.gg/static/5e4407bf68057a498fe4d1863d98d3c7/f9911/khalipe_7.webp"
+      },
+      {
+        "title": "Rally",
+        "img_url": "https://www.prydwen.gg/static/7b06228a5fb4fa187bdaf05bc6e3953e/f9911/khalipe_8.webp"
+      },
+      {
+        "title": "Absolute Protection",
+        "img_url": "https://www.prydwen.gg/static/319e552d5c6434810035434aec8982e5/f9911/khalipe_9.webp"
+      }
+    ]
+  },
+  "lucas": {
+    "name": "lucas",
+    "img": "https://www.prydwen.gg/static/8797f9468837971aee438b986a91181c/2547a/lucas_card.webp",
+    "cards": [
+      {
+        "title": "Machine Gun",
+        "img_url": "https://www.prydwen.gg/static/b6db5c0dee403ffa26dbaff7fe6f6d47/f9911/lucas_2.webp"
+      },
+      {
+        "title": "Machine Gun",
+        "img_url": "https://www.prydwen.gg/static/b6db5c0dee403ffa26dbaff7fe6f6d47/f9911/lucas_2.webp"
+      },
+      {
+        "title": "Shielding Incendiary Bomb",
+        "img_url": "https://www.prydwen.gg/static/3735a07addf296405d68da75eb710510/f9911/lucas_3.webp"
+      },
+      {
+        "title": "Extended Magazine",
+        "img_url": "https://www.prydwen.gg/static/3aec417452f560f2e403ce01226ca7fa/f9911/lucas_4.webp"
+      },
+      {
+        "title": "S.S.S",
+        "img_url": "https://www.prydwen.gg/static/05ab171803b6d29f4a2edc217711965c/f9911/lucas_5.webp"
+      },
+      {
+        "title": "Flame Thrower",
+        "img_url": "https://www.prydwen.gg/static/ef9aeca973838dc74ecc17e588c63489/f9911/lucas_6.webp"
+      },
+      {
+        "title": "Flashbang",
+        "img_url": "https://www.prydwen.gg/static/bec48db88cda07c92749747a68879b78/f9911/lucas_7.webp"
+      },
+      {
+        "title": "R.P.G-7",
+        "img_url": "https://www.prydwen.gg/static/f566ad25b4e4be17007397f8d39bb195/f9911/lucas_8.webp"
+      }
+    ]
+  },
+  "luke": {
+    "name": "luke",
+    "img": "https://www.prydwen.gg/static/3c298dd9dc2b8e6ddf137e74dd152726/2547a/luka_card.webp",
+    "cards": [
+      {
+        "title": "Single Shot",
+        "img_url": "https://www.prydwen.gg/static/7cf21b74134e691e320e5a2ccbfba6e6/f9911/luke_1.webp"
+      },
+      {
+        "title": "Single Shot",
+        "img_url": "https://www.prydwen.gg/static/7cf21b74134e691e320e5a2ccbfba6e6/f9911/luke_1.webp"
+      },
+      {
+        "title": "Shadow Concealment",
+        "img_url": "https://www.prydwen.gg/static/f66c65d20855b91ede295d1b30f51e96/f9911/luke_2.webp"
+      },
+      {
+        "title": "Rapid Fire",
+        "img_url": "https://www.prydwen.gg/static/2bde01ca5175355febb2de7263f00610/f9911/luke_3.webp"
+      },
+      {
+        "title": "Stealth Reload",
+        "img_url": "https://www.prydwen.gg/static/2235dddc43e769ad00ffbe329f1bbc55/f9911/luke_4.webp"
+      },
+      {
+        "title": "Seize the Opportunity",
+        "img_url": "https://www.prydwen.gg/static/49397a9dd53f10e6d420d1d491a92c1b/f9911/luke_5.webp"
+      },
+      {
+        "title": "Dance of the Demon",
+        "img_url": "https://www.prydwen.gg/static/34de1be0921e4790c8f6ffd8ed41ea2e/f9911/luke_6.webp"
+      },
+      {
+        "title": "Finisher Round",
+        "img_url": "https://www.prydwen.gg/static/01fc0e9f103760b8d03184ccf34afcea/f9911/luke_7.webp"
+      }
+    ]
+  },
+  "magna": {
+    "name": "magna",
+    "img": "https://www.prydwen.gg/static/ebcf22b1984abb7d075a084b20ac1099/2547a/magna_card.webp",
+    "cards": [
+      {
+        "title": "Frozen Fist",
+        "img_url": "https://www.prydwen.gg/static/3e4cac76ab03a86a850881f929ab56f6/f9911/magna_2.webp"
+      },
+      {
+        "title": "Frost Shield",
+        "img_url": "https://www.prydwen.gg/static/10e53df24adec3b285779dff21c6db80/f9911/magna_3.webp"
+      },
+      {
+        "title": "Frost Shield",
+        "img_url": "https://www.prydwen.gg/static/10e53df24adec3b285779dff21c6db80/f9911/magna_3.webp"
+      },
+      {
+        "title": "Ice Fragment",
+        "img_url": "https://www.prydwen.gg/static/406b5c3fe9de26ecf16d2392b7690461/f9911/magna_4.webp"
+      },
+      {
+        "title": "Glacial Iron Fist",
+        "img_url": "https://www.prydwen.gg/static/5d653b96b4d7bae72a83aa8b0808bbb8/f9911/magna_5.webp"
+      },
+      {
+        "title": "Ice Wall",
+        "img_url": "https://www.prydwen.gg/static/90dc6efeaff571ffd326848e1493ec84/f9911/magna_6.webp"
+      },
+      {
+        "title": "Frost Charge",
+        "img_url": "https://www.prydwen.gg/static/6fcd07bd7d40ff77c95c8a750f1b4116/f9911/magna_7.webp"
+      },
+      {
+        "title": "Storm of Bitter Cold",
+        "img_url": "https://www.prydwen.gg/static/ef8d5a73f404e01201b58e98edf680de/f9911/magna_8.webp"
+      }
+    ]
+  },
+  "maribell": {
+    "name": "maribell",
+    "img": "https://www.prydwen.gg/static/10ffe95d47a3517a1b12a4f87789a3c5/2547a/maribell_card.webp",
+    "cards": [
+      {
+        "title": "Shelter Kick",
+        "img_url": "https://www.prydwen.gg/static/c281fdfbd693b8849cc960a8352ce5e4/f9911/mari_2.webp"
+      },
+      {
+        "title": "Shelter Defense",
+        "img_url": "https://www.prydwen.gg/static/805ff6b6901f345e9623c63314383890/f9911/mari_3.webp"
+      },
+      {
+        "title": "Shelter Hold",
+        "img_url": "https://www.prydwen.gg/static/64e47a8f5538768e34b4a88b18320f04/f9911/mari_9.webp"
+      },
+      {
+        "title": "Resolute Blitz",
+        "img_url": "https://www.prydwen.gg/static/001a66a5f7fd242bf1975f40f4c14df5/f9911/mari_4.webp"
+      },
+      {
+        "title": "Maribell Shelter MK.II",
+        "img_url": "https://www.prydwen.gg/static/7d6bba629a0856e4e5340d18b231a182/f9911/mari_5.webp"
+      },
+      {
+        "title": "Wolves' Dome",
+        "img_url": "https://www.prydwen.gg/static/f6e2fcf5254cfe482be0c7307101d22d/f9911/mari_6.webp"
+      },
+      {
+        "title": "Oh... I see.",
+        "img_url": "https://www.prydwen.gg/static/17fe81832a9f7e56c02078977db6315d/f9911/mari_7.webp"
+      },
+      {
+        "title": "Shelter Strike",
+        "img_url": "https://www.prydwen.gg/static/6849937e34916a0bca2ab5e97a902d06/f9911/mari_8.webp"
+      }
+    ]
+  },
+  "mei-lin": {
+    "name": "mei-lin",
+    "img": "https://www.prydwen.gg/static/4dc2dc4a26a229ae743a4a1a5851f35f/2547a/Meilin_card.webp",
+    "cards": [
+      {
+        "title": "Strike",
+        "img_url": "https://www.prydwen.gg/static/31e93e78ffa1cb6f71b7e49ebccf9509/f9911/mei_2.webp"
+      },
+      {
+        "title": "Strike",
+        "img_url": "https://www.prydwen.gg/static/31e93e78ffa1cb6f71b7e49ebccf9509/f9911/mei_2.webp"
+      },
+      {
+        "title": "Flame Dragon Guardian",
+        "img_url": "https://www.prydwen.gg/static/7c2cee4d6eb3ae1a7b4723f342856264/f9911/mei_3.webp"
+      },
+      {
+        "title": "Flame Dragon's Jewel",
+        "img_url": "https://www.prydwen.gg/static/3ed5291cc610a6f774221ac62053695b/f9911/mei_4.webp"
+      },
+      {
+        "title": "Rising Dragon Spire",
+        "img_url": "https://www.prydwen.gg/static/424cd2c431e607199d903ed0ffaef1c0/f9911/mei_5.webp"
+      },
+      {
+        "title": "Unity of Attack and Defense",
+        "img_url": "https://www.prydwen.gg/static/01312933d74fec62ebe0c977fd13c40c/f9911/mei_6.webp"
+      },
+      {
+        "title": "Spirit of the Aromata",
+        "img_url": "https://www.prydwen.gg/static/3ca2728f5dffe9bd8a3151737ad1638a/f9911/mei_7.webp"
+      },
+      {
+        "title": "Flame Dragon's Sovereignty",
+        "img_url": "https://www.prydwen.gg/static/979e6e12ef5e9a29706a1e3a026f5072/f9911/mei_8.webp"
+      }
+    ]
+  },
+  "mika": {
+    "name": "mika",
+    "img": "https://www.prydwen.gg/static/e638d89e02d785c77b78aa7852696dd1/2547a/mika_card.webp",
+    "cards": [
+      {
+        "title": "Water Arrow",
+        "img_url": "https://www.prydwen.gg/static/9356c9498e41c99def4655c57574f11c/f9911/mika_1.webp"
+      },
+      {
+        "title": "Water Barrier",
+        "img_url": "https://www.prydwen.gg/static/24cd2d42dd7e9ca1dc5266301d3614fd/f9911/mika_2.webp"
+      },
+      {
+        "title": "Water Barrier",
+        "img_url": "https://www.prydwen.gg/static/24cd2d42dd7e9ca1dc5266301d3614fd/f9911/mika_2.webp"
+      },
+      {
+        "title": "Source of Water",
+        "img_url": "https://www.prydwen.gg/static/e65a85573f4fbef5f69d4fac2cd769e1/f9911/mika_3.webp"
+      },
+      {
+        "title": "Blessing of Waves",
+        "img_url": "https://www.prydwen.gg/static/00b38cf427b1ef9ad1654fa24ca69965/f9911/mika_4.webp"
+      },
+      {
+        "title": "Tactical Analysis",
+        "img_url": "https://www.prydwen.gg/static/31f9f6de31f0a864f2efb044f183d2c0/f9911/mika_5.webp"
+      },
+      {
+        "title": "Whirlpool",
+        "img_url": "https://www.prydwen.gg/static/350d851aba5d9ca696664c2950911834/f9911/mika_6.webp"
+      },
+      {
+        "title": "Deluge",
+        "img_url": "https://www.prydwen.gg/static/e19aac919e7e0bf0cc5b7e42253ca989/f9911/mika_7.webp"
+      }
+    ]
+  },
+  "nia": {
+    "name": "nia",
+    "img": "https://www.prydwen.gg/static/b3536392cc19b3f0c4740f957a5e1d3b/2547a/nia_card.webp",
+    "cards": [
+      {
+        "title": "Stroke",
+        "img_url": "https://www.prydwen.gg/static/0270185e0d8dcec2184ef10433fddb51/f9911/nia_2.webp"
+      },
+      {
+        "title": "Amp Therapy",
+        "img_url": "https://www.prydwen.gg/static/08b89db715348f5811a852433928e721/f9911/nia_3.webp"
+      },
+      {
+        "title": "Amp Therapy",
+        "img_url": "https://www.prydwen.gg/static/08b89db715348f5811a852433928e721/f9911/nia_3.webp"
+      },
+      {
+        "title": "G Chord",
+        "img_url": "https://www.prydwen.gg/static/280c12710b078461acf378643a122f9d/f9911/nia_4.webp"
+      },
+      {
+        "title": "Mute Accent",
+        "img_url": "https://www.prydwen.gg/static/520c52e430e7f21fa693668d1f878906/f9911/nia_5.webp"
+      },
+      {
+        "title": "Soul Rip",
+        "img_url": "https://www.prydwen.gg/static/365d86b07b5f80adc9aadb5aabeb5dbe/f9911/nia_7.webp"
+      },
+      {
+        "title": "Adagio",
+        "img_url": "https://www.prydwen.gg/static/74a2d677b8e10b9f9e16d19968f65d19/f9911/nia_8.webp"
+      },
+      {
+        "title": "Nia's Curiosity",
+        "img_url": "https://www.prydwen.gg/static/ebf2da4cb9bb8e70fa18dd9e59fa2cc3/f9911/nia_6.webp"
+      }
+    ]
+  },
+  "orlea": {
+    "name": "orlea",
+    "img": "https://www.prydwen.gg/static/57f82d28d86ce80fb0096ecda18208b6/2547a/orlea_card.webp",
+    "cards": [
+      {
+        "title": "Attack, My Minions",
+        "img_url": "https://www.prydwen.gg/static/63b2d992351c7d0bd6433ed84e221ff8/f9911/orlea_2.webp"
+      },
+      {
+        "title": "Attack, My Minions",
+        "img_url": "https://www.prydwen.gg/static/63b2d992351c7d0bd6433ed84e221ff8/f9911/orlea_2.webp"
+      },
+      {
+        "title": "Celestial Healing",
+        "img_url": "https://www.prydwen.gg/static/5d4163802aec9e8c2ad0bfcb08579631/f9911/orlea_3.webp"
+      },
+      {
+        "title": "Sacred Censer",
+        "img_url": "https://www.prydwen.gg/static/0caac3a7b173318b8769d8066e1b4ea3/f9911/orlea_4.webp"
+      },
+      {
+        "title": "Growth Acceleration",
+        "img_url": "https://www.prydwen.gg/static/67457b6ba98f1279eb29855ae370dd5c/f9911/orlea_5.webp"
+      },
+      {
+        "title": "Annoying",
+        "img_url": "https://www.prydwen.gg/static/e7e09550cfc821fef388a9eca49a8358/f9911/orlea_6.webp"
+      },
+      {
+        "title": "Growing Creature",
+        "img_url": "https://www.prydwen.gg/static/d870c7f961b442ba6a4e7173325aafba/f9911/orlea_7.webp"
+      },
+      {
+        "title": "Will of Light",
+        "img_url": "https://www.prydwen.gg/static/5ff21bc4fc4f091eb8447e2080efb534/f9911/orlea_8.webp"
+      }
+    ]
+  },
+  "owen": {
+    "name": "owen",
+    "img": "https://www.prydwen.gg/static/875efc383ffbaf08a20e8280e37293a4/2547a/owen_card.webp",
+    "cards": [
+      {
+        "title": "Downward Cut",
+        "img_url": "https://www.prydwen.gg/static/383155f288e47eca9f2491584a6a6322/f9911/owen_2.webp"
+      },
+      {
+        "title": "Downward Cut",
+        "img_url": "https://www.prydwen.gg/static/383155f288e47eca9f2491584a6a6322/f9911/owen_2.webp"
+      },
+      {
+        "title": "Weapon Block",
+        "img_url": "https://www.prydwen.gg/static/694e67f519aa529835c2e8c15ce576ff/f9911/owen_3.webp"
+      },
+      {
+        "title": "Wind Charge",
+        "img_url": "https://www.prydwen.gg/static/ce9550e64fac832e200e9e5c7031fdc5/f9911/owen_4.webp"
+      },
+      {
+        "title": "Wind Slash",
+        "img_url": "https://www.prydwen.gg/static/2331bd590248275cde42db529eadbee5/f9911/owen_5.webp"
+      },
+      {
+        "title": "Break Armor",
+        "img_url": "https://www.prydwen.gg/static/8c37bd897429a8d1257b5d1b092f5f48/f9911/owen_6.webp"
+      },
+      {
+        "title": "Wind Riding",
+        "img_url": "https://www.prydwen.gg/static/91e5ab6b05aa0ca65679d62c49da473c/f9911/owen_7.webp"
+      },
+      {
+        "title": "Gale Strike",
+        "img_url": "https://www.prydwen.gg/static/50549e77415914e009d504afb8e270f9/f9911/owen_8.webp"
+      }
+    ]
+  },
+  "rei": {
+    "name": "rei",
+    "img": "https://www.prydwen.gg/static/f71f964cba5947f4c46752fc93e2fd2c/2547a/rei_card.webp",
+    "cards": [
+      {
+        "title": "Dark Blade",
+        "img_url": "https://www.prydwen.gg/static/f43963019273b363439951940d53c0a2/f9911/rei_2.webp"
+      },
+      {
+        "title": "Dark Blade",
+        "img_url": "https://www.prydwen.gg/static/f43963019273b363439951940d53c0a2/f9911/rei_2.webp"
+      },
+      {
+        "title": "Material Regeneration",
+        "img_url": "https://www.prydwen.gg/static/d765917d9c3981f71f7ceda763b50909/f9911/rei_3.webp"
+      },
+      {
+        "title": "Strike of Darkness",
+        "img_url": "https://www.prydwen.gg/static/3ea2ded0544874ebdb02238672fbb2bb/f9911/rei_4.webp"
+      },
+      {
+        "title": "Resonating Darkness",
+        "img_url": "https://www.prydwen.gg/static/e45148a6c5f638f5c7ca39bccfa3e89e/f9911/rei_5.webp"
+      },
+      {
+        "title": "Snack Time",
+        "img_url": "https://www.prydwen.gg/static/f3af7f3a14370839f51bb2da2dbb6221/f9911/rei_6.webp"
+      },
+      {
+        "title": "Dark Condensation",
+        "img_url": "https://www.prydwen.gg/static/b8bc603338272c0bc97b7267869d3130/f9911/rei_7.webp"
+      },
+      {
+        "title": "Predator's Blade",
+        "img_url": "https://www.prydwen.gg/static/0ddec39533683b1ada108e47eb140ccd/f9911/rei_8.webp"
+      }
+    ]
+  },
+  "renoa": {
+    "name": "renoa",
+    "img": "https://www.prydwen.gg/static/d8632173ae4750ac502aa6c0f9fd9d85/2547a/renoa_card.webp",
+    "cards": [
+      {
+        "title": "Annihilation Shot",
+        "img_url": "https://www.prydwen.gg/static/a7490f3f448f7681a118194be3ab4449/f9911/ronoa_1.webp"
+      },
+      {
+        "title": "Annihilation Shot",
+        "img_url": "https://www.prydwen.gg/static/a7490f3f448f7681a118194be3ab4449/f9911/ronoa_1.webp"
+      },
+      {
+        "title": "Black Veil",
+        "img_url": "https://www.prydwen.gg/static/74a6b1e3a80a6f37ffef0b5969abbe2c/f9911/ronoa_2.webp"
+      },
+      {
+        "title": "Echo of Sorrow",
+        "img_url": "https://www.prydwen.gg/static/17ef7155898e19fef8a1c53affe20e0b/f9911/ronoa_3.webp"
+      },
+      {
+        "title": "Instant Judgment",
+        "img_url": "https://www.prydwen.gg/static/1ead0d899fc756e60ebadae18d594918/f9911/ronoa_4.webp"
+      },
+      {
+        "title": "Ballad of Pitch Black",
+        "img_url": "https://www.prydwen.gg/static/762a86784c119b499b62d5982bba89d7/f9911/ronoa_5.webp"
+      },
+      {
+        "title": "Flower of Devoured Fate",
+        "img_url": "https://www.prydwen.gg/static/5b689a2be3b73c371d9cac3343611cd8/f9911/ronoa_6.webp"
+      },
+      {
+        "title": "Last-Ditch Assault",
+        "img_url": "https://www.prydwen.gg/static/84ec542341ec0b9f3d9804b73c2fa382/f9911/ronoa_7.webp"
+      }
+    ]
+  },
+  "rin": {
+    "name": "rin",
+    "img": "https://www.prydwen.gg/static/994c8e3ef3fa1fafbae0ad6256aeda3d/2547a/rin_card.webp",
+    "cards": [
+      {
+        "title": "Dark Mist Sword: First Form Attack",
+        "img_url": "https://www.prydwen.gg/static/b4693f861a675d2407ed457aad300d2c/f9911/rin_2.webp"
+      },
+      {
+        "title": "Dark Mist Sword: Third Form Attack",
+        "img_url": "https://www.prydwen.gg/static/556daed6fe9035a80a02f08d79052705/f9911/rin_3.webp"
+      },
+      {
+        "title": "Protection",
+        "img_url": "https://www.prydwen.gg/static/05cafd48094b694c29f9a1af0744eb77/f9911/rin_4.webp"
+      },
+      {
+        "title": "Drawing Slash",
+        "img_url": "https://www.prydwen.gg/static/1b055924da31a7734bdc910d70af54ff/f9911/rin_5.webp"
+      },
+      {
+        "title": "Dark Mist Secret Art: Destruction",
+        "img_url": "https://www.prydwen.gg/static/d6aa792fbfa2d348ed38e013d03173bd/f9911/rin_6.webp"
+      },
+      {
+        "title": "Dark Mist Secret Art: Annihilation",
+        "img_url": "https://www.prydwen.gg/static/5eafd5de81ff07ad8d23a407eb3667d4/f9911/rin_7.webp"
+      },
+      {
+        "title": "Dark Mist Inner Art",
+        "img_url": "https://www.prydwen.gg/static/4ab0ccbce65d3eab31b3f2e618b3ebe3/f9911/rin_8.webp"
+      },
+      {
+        "title": "Dark Mist Secret Art: Black Dance",
+        "img_url": "https://www.prydwen.gg/static/cfc312d2fbc89e6ed7ebb937050f796f/f9911/rin_9.webp"
+      }
+    ]
+  },
+  "selena": {
+    "name": "selena",
+    "img": "https://www.prydwen.gg/static/e02bfbc7dbe796816d305089304826e4/2547a/selene_card.webp",
+    "cards": [
+      {
+        "title": "Engagement Fire",
+        "img_url": "https://www.prydwen.gg/static/295703bda93e6b96a1b7d41da0a939ab/f9911/selena_2.webp"
+      },
+      {
+        "title": "Engagement Fire",
+        "img_url": "https://www.prydwen.gg/static/295703bda93e6b96a1b7d41da0a939ab/f9911/selena_2.webp"
+      },
+      {
+        "title": "Emergency Shielding",
+        "img_url": "https://www.prydwen.gg/static/6293da15aebb90758d955bb8b6703086/f9911/selena_3.webp"
+      },
+      {
+        "title": "High-Power Scope",
+        "img_url": "https://www.prydwen.gg/static/802c2992fd0303c78138787743453f18/f9911/selena_4.webp"
+      },
+      {
+        "title": "Target Spotted",
+        "img_url": "https://www.prydwen.gg/static/692196c886eeb62351840d928d76dce9/f9911/selena_5.webp"
+      },
+      {
+        "title": "Drone Bombing",
+        "img_url": "https://www.prydwen.gg/static/a235f1589f893beca9ce646126cb610c/f9911/selena_6.webp"
+      },
+      {
+        "title": "Tactical Maneuver",
+        "img_url": "https://www.prydwen.gg/static/58149abf61ac9f5ec6a144586198fc46/f9911/selena_7.webp"
+      },
+      {
+        "title": "Sniper's Domain",
+        "img_url": "https://www.prydwen.gg/static/3841f2e16969d377d3864c4a4893f7fe/f9911/selena_8.webp"
+      }
+    ]
+  },
+  "sereniel": {
+    "name": "sereniel",
+    "img": "https://www.prydwen.gg/static/fb4f38354b7693f75359fa88ce04d305/2547a/sere_card.webp"
+  },
+  "tressa": {
+    "name": "tressa",
+    "img": "https://www.prydwen.gg/static/466b69fe2d1e91d4fed0a1b2d8f49af9/2547a/Tressa_card.webp",
+    "cards": [
+      {
+        "title": "Dagger Throw",
+        "img_url": "https://www.prydwen.gg/static/50a6248cec11c84f03416c5d33439f04/f9911/tressa_2.webp"
+      },
+      {
+        "title": "Dagger Throw",
+        "img_url": "https://www.prydwen.gg/static/50a6248cec11c84f03416c5d33439f04/f9911/tressa_2.webp"
+      },
+      {
+        "title": "Touch of Darkness",
+        "img_url": "https://www.prydwen.gg/static/6254d127e70de85e914e35819a7fed14/f9911/tressa_3.webp"
+      },
+      {
+        "title": "Unsheathe Dagger",
+        "img_url": "https://www.prydwen.gg/static/7afd0e046d930da9684d06945e8ca016/f9911/tressa_4.webp"
+      },
+      {
+        "title": "Curse",
+        "img_url": "https://www.prydwen.gg/static/4633ad48d017a26cace0afc7947fb94d/f9911/tressa_5.webp"
+      },
+      {
+        "title": "Shadow Reload",
+        "img_url": "https://www.prydwen.gg/static/223cd3af927f5c4a742cdc820dc5a29e/f9911/tressa_6.webp"
+      },
+      {
+        "title": "Vital Attack",
+        "img_url": "https://www.prydwen.gg/static/13bb7981351b8b5fae0d529c3c2bfddb/f9911/tressa_7.webp"
+      },
+      {
+        "title": "Cursed Gouge",
+        "img_url": "https://www.prydwen.gg/static/c4fa4758b19b4f144687124df3c1633f/f9911/tressa_8.webp"
+      }
+    ]
+  },
+  "veronica": {
+    "name": "veronica",
+    "img": "https://www.prydwen.gg/static/7e073ee7c0d3b652adbf6b9e4042cfc5/2547a/veronica_card.webp",
+    "cards": [
+      {
+        "title": "Rapid Fire",
+        "img_url": "https://www.prydwen.gg/static/60c9ea48aa3c4ae1500a0c4c53784abc/f9911/veronica_2.webp"
+      },
+      {
+        "title": "Rapid Fire",
+        "img_url": "https://www.prydwen.gg/static/60c9ea48aa3c4ae1500a0c4c53784abc/f9911/veronica_2.webp"
+      },
+      {
+        "title": "Illusion of Golden Daffodils",
+        "img_url": "https://www.prydwen.gg/static/bde5e33c7d36daf09a574d1e034d4b8f/f9911/veronica_3.webp"
+      },
+      {
+        "title": "Firing Preperation",
+        "img_url": "https://www.prydwen.gg/static/f9756bcd2d66503540560f7d2f2c20f9/f9911/veronica_4.webp"
+      },
+      {
+        "title": "Repose",
+        "img_url": "https://www.prydwen.gg/static/c8caedf24581f887dcd6c9b6663f6ace/f9911/veronica_5.webp"
+      },
+      {
+        "title": "Pendant of Resolution",
+        "img_url": "https://www.prydwen.gg/static/2ba9737866c506b4ee7a951624c7d659/f9911/veronica_6.webp"
+      },
+      {
+        "title": "Sir Kowalski",
+        "img_url": "https://www.prydwen.gg/static/b301e2c0973282215555c4601576dc7c/f9911/veronica_7.webp"
+      },
+      {
+        "title": "Bombardment Prep",
+        "img_url": "https://www.prydwen.gg/static/55e536596ee590e19c14f38fee6573f3/f9911/veronica_8.webp"
+      }
+    ]
+  },
+  "yuki": {
+    "name": "yuki",
+    "img": "https://www.prydwen.gg/static/81fc05339c0d7b65a78e2b09cae5c8a2/2547a/yuki_card.webp",
+    "cards": [
+      {
+        "title": "Longsword Slash",
+        "img_url": "https://www.prydwen.gg/static/faae67aa803681b537c21778c90f5b27/f9911/yuki_746.webp"
+      },
+      {
+        "title": "Rapid Slash",
+        "img_url": "https://www.prydwen.gg/static/63ed7f08abcf6418199fcbc6aea99fee/f9911/yuki_747.webp"
+      },
+      {
+        "title": "Flowing Parry",
+        "img_url": "https://www.prydwen.gg/static/d53091042d9a28be57e286add418d054/f9911/yuki_748.webp"
+      },
+      {
+        "title": "Prepare to Subdue",
+        "img_url": "https://www.prydwen.gg/static/a13ca40b37d2491978bb7cb3e4fb70b9/f9911/yuki_750.webp"
+      },
+      {
+        "title": "Flash Slash",
+        "img_url": "https://www.prydwen.gg/static/023eb6659dad2be91e54550dd79c233e/f9911/yuki_756.webp"
+      },
+      {
+        "title": "Trickery Strike",
+        "img_url": "https://www.prydwen.gg/static/3df1cc0af23f418e94ef5b6b77446459/f9911/yuki_762.webp"
+      },
+      {
+        "title": "Freezing Blade",
+        "img_url": "https://www.prydwen.gg/static/6c247e035480b89d90a9e03d1324c858/f9911/yuki_768.webp"
+      },
+      {
+        "title": "Iceberg Cleave",
+        "img_url": "https://www.prydwen.gg/static/4f2863163b658cc46f9df09fb3bc6f3c/f9911/yuki_774.webp"
+      }
+    ]
+  }
+}
