@@ -1897,6 +1897,10 @@
 
       if (data.includes('convert')) {
         point += convertedPoint
+
+        if (!data.includes('neutral')) {
+          point += commonCardPoint['neutral']
+        }
       }
 
       if (data.includes('duplicate')) {
@@ -1908,8 +1912,18 @@
         cardCount -= 1
         removeCount += 1
 
-        if (!data.includes('convert')) {
-          point += getRemovePoint()
+        point += getRemovePoint()
+
+        if (['neutral', 'convert'].some(item => data.includes(item))) {
+          point -= commonCardPoint['neutral']
+        }
+
+        if (data.includes('monster')) {
+          point -= commonCardPoint['monster']  
+        }
+
+        if (data.includes('forbidden')) {
+          point -= commonCardPoint['neutral']
         }
 
         if ((data.includes('basic') || data.includes('unique')) && !data.includes('convert')) {
@@ -1921,12 +1935,14 @@
       //   return point
       // }
 
-      if (data.includes('ephipany') && ['convert', 'neutral', 'monster'].some(item => data.includes(item))) {
-        point += ephipanyPoint
-      }
+      if (!data.includes('remove')) {
+        if (data.includes('ephipany') && ['convert', 'neutral', 'monster'].some(item => data.includes(item))) {
+          point += ephipanyPoint 
+        }
 
-      if (data.includes('divine-ephipany')) {
-        point += divineEphipanyPoint
+        if (data.includes('divine-ephipany')) {
+          point += divineEphipanyPoint
+        }
       }
 
       return point
