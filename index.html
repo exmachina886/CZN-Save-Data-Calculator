@@ -1837,7 +1837,7 @@
 
       card.getAttribute('data-card').split(' ')
 
-      if (!card.getAttribute('data-card').split(' ').includes('basic')) {
+      if (!card.getAttribute('data-card').split(' ').includes('basic') || card.getAttribute('data-card').split(' ').includes('convert')) {
         const clonedCard = card.cloneNode(true);
         clonedCard.classList.add('card-duplicate-animation');
 
@@ -1898,7 +1898,9 @@
       point += (commonCardPoint[data[0]] || 0)
 
       if (data.includes('convert')) {
-        point += convertedPoint
+        if (!data.includes('duplicate')) {
+          point += convertedPoint
+        }
 
         if (!data.includes('neutral')) {
           point += commonCardPoint['neutral']
