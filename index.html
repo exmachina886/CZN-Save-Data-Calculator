@@ -1781,12 +1781,14 @@
 
         card.setAttribute('data-card', `${data.join(' ')} convert`)
       } else {
-        if (data.includes('basic')) {
+        if (data.includes('basic') || card.getAttribute('card-tag-unique')) {
           const duplicateButton = card.querySelector('#duplicate');
           const ephipanyButton = card.querySelector('#ephipany');
           const divineEphipanyButton = card.querySelector('#divine-ephipany');
 
-          duplicateButton.classList.add('hidden')
+          if (!card.getAttribute('card-tag-unique')) {
+            duplicateButton.classList.add('hidden')
+          }
           ephipanyButton.classList.add('hidden')
           divineEphipanyButton.classList.add('hidden')
 
@@ -2008,6 +2010,12 @@
 
               if (i > 3) {
                 clonedCard.querySelector('#delete').classList.remove('hidden');
+              }
+
+              if (i == 7) {
+                clonedCard.setAttribute('card-tag-unique', 'true');
+                ephipanyButton.classList.add('hidden');
+                divineEphipanyButton.classList.add('hidden');
               }
 
               const title = clonedCard.querySelector('.card-title');
